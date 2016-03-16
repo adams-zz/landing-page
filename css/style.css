@@ -1,0 +1,28 @@
+body {
+    background-color: LightGray;
+}
+div, header {
+    border: 1px solid Chocolate;
+}
+
+.nav-bar{
+	background-color: white;
+}
+
+.nav-bar img{
+	display: inline-block;
+	height: 3em;
+	margin: 1em 10em;
+}
+
+.nav-menu {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.nav-menu > li {
+	text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	float: left;
+}
